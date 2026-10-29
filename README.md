@@ -12,7 +12,7 @@ For more information on how to this works with other frontends/backends, head ov
 
 Following some DDD principles. REST or GraphQL is just a kind of adapter. And the domain layer will be consistent all the time. So this repository implement GraphQL and REST at the same time.
 
-The GraphQL schema is https://github.com/gothinkster/spring-boot-realworld-example-app/blob/master/src/main/resources/schema/schema.graphqls and the visualization looks like below.
+The GraphQL schema is https://github.com/xexperiment/newswire-java/blob/master/src/main/resources/schema/schema.graphqls and the visualization looks like below.
 
 ![](graphql-schema.png)
 
